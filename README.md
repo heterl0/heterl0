@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+#### A Front-End Developer from Vietnam. Enjoying Learn code and share experience!
+
+Front-End Developer at [Kdigi](https://kdigi.vn);<br>
+
+- ⚙️ I use daily: `.js`, `.jsx`, `.html`, `.css`, `.py`, `.json`, `.ts`
+- 💬 `ping` me about **development**, **DSA**, **working**
+
 
 <!--
 **heterl0/heterl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
